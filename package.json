@@ -1,0 +1,11 @@
+{
+  "name": "translacat-website",
+  "version": "1.0.0",
+  "description": "TranslaCAT institutional website",
+  "scripts": {
+    "dev": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
