@@ -40,8 +40,8 @@ const translations = {
     'wc-f1': 'Tudo do plano Pontual','wc-f2': 'Memória de tradução exclusiva','wc-f3': 'Glossário técnico dedicado','wc-f4': 'Prioridade de fila garantida','wc-f5': 'Relatórios de progresso e QA','wc-f6': 'Canal direto com o linguista','btn-cont': 'Ser Parceiro Contínuo',
     'ft-desc': 'Tradução e localização especializada para games, TI e engenharia. Translate + CAT — Computer Assisted Translation.',
     'ft-links-t': 'Links','ft-svc-t': 'Serviços','ft-cli-t': 'Clientes',
-    'ft-lnk-1': 'Início', 'ft-lnk-2': 'Serviços', 'ft-lnk-3': 'Projetos', 'ft-lnk-4': 'Sobre', 'ft-lnk-5': 'Equipe', 'ft-lnk-6': 'Contato',
-    'ft-svc-1': 'Games & Videogames', 'ft-svc-2': 'TI & Software', 'ft-svc-3': 'Engenharia Técnica', 'ft-svc-4': 'Literatura & Cultura', 'ft-svc-6': 'LQA & Revisão',
+    'ft-lnk-1': 'Início', 'ft-lnk-2': 'Projetos', 'ft-lnk-3': 'Filosofia', 'ft-lnk-4': 'Serviços', 'ft-lnk-5': 'Sobre', 'ft-lnk-6': 'Equipe', 'ft-lnk-7': 'Contato',
+    'ft-svc-1': 'Games & Videogames', 'ft-svc-2': 'TI & Software', 'ft-svc-3': 'Engenharia Técnica', 'ft-svc-4': 'Literatura & Cultura', 'ft-svc-6': 'LQA & Revisão', 'ft-svc-7': 'Suporte à Dublagem',
     'ft-cli-all': 'Ver todos',
     'ft-copy': '© 2024 TranslaCAT. Todos os direitos reservados. Powered by TranslaCAT.',
     'proc-title': 'Pares de Idioma',
@@ -54,6 +54,22 @@ const translations = {
     'proc-status-active-tr': 'Traduzindo...',
     'proc-status-active-rev': 'Revisando...',
     'proc-status-active-ent': 'Embalando...',
+    'dub-label': 'Novo Serviço',
+    'dub-title': 'Suporte à Dublagem em Português Brasileiro',
+    'dub-subtitle': 'Faça seus personagens soarem naturais, consistentes e culturalmente adequados para o público brasileiro.',
+    'dub-copy1': 'A TranslaCAT agora oferece suporte a fluxos de dublagem em português brasileiro para jogos, combinando nossa experiência em localização, edição, revisão e LQA com parceiros especializados em áudio para casting, gravação, direção e pós-produção.',
+    'dub-copy2': 'Ajudamos a manter scripts traduzidos, vozes de personagens, terminologia, humor, lore e tom alinhados em toda a experiência do jogador — do texto em tela ao diálogo falado.',
+    'dub-h1': 'Adaptação de roteiro para dublagem',
+    'dub-h2': 'Notas de pronúncia e contexto',
+    'dub-h3': 'Coordenação de casting e gravação',
+    'dub-h4': 'LQA para conteúdo dublado',
+    'dub-d1': 'Adaptamos roteiros traduzidos para sincronia labial, voz do personagem, tom emocional e ritmo natural de fala — garantindo que cada fala pareça ter sido escrita para a voz, e não apenas para a página.',
+    'dub-d2': 'Cada roteiro é entregue com notas detalhadas para diretores de voz e atores: histórico do personagem, guias de pronúncia para nomes e termos, intenção emocional e contexto cultural relevante para o português brasileiro.',
+    'dub-d3': 'Coordenamos com parceiros de áudio especializados para casting, agendamento e gerenciamento de sessões — conectando a voz certa a cada personagem e mantendo a produção no caminho certo desde a primeira leitura até o take final.',
+    'dub-d4': 'Após a gravação, revisamos o áudio dublado em relação ao roteiro original para garantir precisão, consistência, tom e adequação cultural — detectando problemas antes que cheguem ao jogador.',
+    'btn-dubbing': 'Fale conosco sobre dublagem',
+    'dub-card-label': 'Roteiro de Dublagem — PT-BR',
+    'dub-status-text': 'Roteiro revisado · Pronto para gravação',
   },
   en: {
     'nav-services': 'Services','nav-clients': 'Clients','nav-projects': 'Projects',
@@ -96,8 +112,8 @@ const translations = {
     'wc-f1': 'Everything in Single Project','wc-f2': 'Exclusive translation memory','wc-f3': 'Dedicated technical glossary','wc-f4': 'Guaranteed queue priority','wc-f5': 'Progress and QA reports','wc-f6': 'Direct channel with the linguist','btn-cont': 'Become a Continuous Partner',
     'ft-desc': 'Specialized translation and localization for games, IT and engineering. Translate + CAT — Computer Assisted Translation.',
     'ft-links-t': 'Links','ft-svc-t': 'Services','ft-cli-t': 'Clients',
-    'ft-lnk-1': 'Home', 'ft-lnk-2': 'Services', 'ft-lnk-3': 'Projects', 'ft-lnk-4': 'About', 'ft-lnk-5': 'Team', 'ft-lnk-6': 'Contact',
-    'ft-svc-1': 'Games & Videogames', 'ft-svc-2': 'IT & Software', 'ft-svc-3': 'Technical Engineering', 'ft-svc-4': 'Literature & Culture', 'ft-svc-6': 'LQA & Proofreading',
+    'ft-lnk-1': 'Home', 'ft-lnk-2': 'Projects', 'ft-lnk-3': 'Philosophy', 'ft-lnk-4': 'Services', 'ft-lnk-5': 'About', 'ft-lnk-6': 'Team', 'ft-lnk-7': 'Contact',
+    'ft-svc-1': 'Games & Videogames', 'ft-svc-2': 'IT & Software', 'ft-svc-3': 'Technical Engineering', 'ft-svc-4': 'Literature & Culture', 'ft-svc-6': 'LQA & Proofreading', 'ft-svc-7': 'Dubbing Support',
     'ft-cli-all': 'View all',
     'ft-copy': '© 2024 TranslaCAT. All rights reserved. Powered by TranslaCAT.',
     'proc-title': 'Language Pairs',
@@ -110,6 +126,22 @@ const translations = {
     'proc-status-active-tr': 'Translating...',
     'proc-status-active-rev': 'Reviewing...',
     'proc-status-active-ent': 'Packing...',
+    'dub-label': 'New Service',
+    'dub-title': 'Brazilian Portuguese Dubbing Support',
+    'dub-subtitle': 'Make your characters sound natural, consistent, and culturally right for Brazilian players.',
+    'dub-copy1': 'TranslaCAT now supports Brazilian Portuguese dubbing workflows for games, combining our localization, editing, proofreading, and LQA experience with specialized audio partners for casting, recording, direction, and post-production.',
+    'dub-copy2': 'We help keep translated scripts, character voices, terminology, humor, lore, and tone aligned across the full player experience — from on-screen text to spoken dialogue.',
+    'dub-h1': 'Script adaptation for dubbing',
+    'dub-h2': 'Pronunciation and context notes',
+    'dub-h3': 'Voice casting and recording coordination',
+    'dub-h4': 'Linguistic QA for dubbed content',
+    'dub-d1': 'We adapt translated scripts to match lip sync timing, character voice, emotional tone, and natural speech rhythm — ensuring every line feels written for the voice, not just the page.',
+    'dub-d2': 'Each script is delivered with detailed notes for voice directors and actors: character background, pronunciation guides for names and terms, emotional intent, and cultural context relevant to Brazilian Portuguese.',
+    'dub-d3': 'We coordinate with specialized audio partners for casting, scheduling, and session management — connecting the right voice to each character and keeping production on track from first read to final take.',
+    'dub-d4': 'After recording, we review dubbed audio against the source script for accuracy, consistency, tone, and cultural appropriateness — catching issues before they reach the player.',
+    'btn-dubbing': 'Talk to us about dubbing support',
+    'dub-card-label': 'Dubbing Script — PT-BR',
+    'dub-status-text': 'Script reviewed · Ready for recording',
   }
 };
 
@@ -155,10 +187,15 @@ function applyLang(lang) {
   setText('wc-f1',t['wc-f1']); setText('wc-f2',t['wc-f2']); setText('wc-f3',t['wc-f3']); setText('wc-f4',t['wc-f4']); setText('wc-f5',t['wc-f5']); setText('wc-f6',t['wc-f6']); setText('btn-cont',t['btn-cont']);
   setText('cta-title',t['cta-title']); setText('cta-sub',t['cta-sub']);
   setText('ft-desc',t['ft-desc']); setText('ft-links-t',t['ft-links-t']); setText('ft-svc-t',t['ft-svc-t']); setText('ft-cli-t',t['ft-cli-t']);
-  setText('ft-lnk-1',t['ft-lnk-1']); setText('ft-lnk-2',t['ft-lnk-2']); setText('ft-lnk-3',t['ft-lnk-3']); setText('ft-lnk-4',t['ft-lnk-4']); setText('ft-lnk-5',t['ft-lnk-5']); setText('ft-lnk-6',t['ft-lnk-6']);
-  setText('ft-svc-1',t['ft-svc-1']); setText('ft-svc-2',t['ft-svc-2']); setText('ft-svc-3',t['ft-svc-3']); setText('ft-svc-4',t['ft-svc-4']); setText('ft-svc-6',t['ft-svc-6']);
+  setText('ft-lnk-1',t['ft-lnk-1']); setText('ft-lnk-2',t['ft-lnk-2']); setText('ft-lnk-3',t['ft-lnk-3']); setText('ft-lnk-4',t['ft-lnk-4']); setText('ft-lnk-5',t['ft-lnk-5']); setText('ft-lnk-6',t['ft-lnk-6']); setText('ft-lnk-7',t['ft-lnk-7']);
+  setText('ft-svc-1',t['ft-svc-1']); setText('ft-svc-2',t['ft-svc-2']); setText('ft-svc-3',t['ft-svc-3']); setText('ft-svc-4',t['ft-svc-4']); setText('ft-svc-6',t['ft-svc-6']); setText('ft-svc-7',t['ft-svc-7']);
   setText('ft-cli-all',t['ft-cli-all']);
   setText('ft-copy',t['ft-copy']);
+  setText('dub-label',t['dub-label']); setText('dub-title',t['dub-title']); setText('dub-subtitle',t['dub-subtitle']);
+  setText('dub-copy1',t['dub-copy1']); setText('dub-copy2',t['dub-copy2']);
+  setText('dub-h1',t['dub-h1']); setText('dub-h2',t['dub-h2']); setText('dub-h3',t['dub-h3']); setText('dub-h4',t['dub-h4']);
+  setText('dub-d1',t['dub-d1']); setText('dub-d2',t['dub-d2']); setText('dub-d3',t['dub-d3']); setText('dub-d4',t['dub-d4']);
+  setText('btn-dubbing',t['btn-dubbing']); setText('dub-card-label',t['dub-card-label']); setText('dub-status-text',t['dub-status-text']);
   setText('proc-title',t['proc-title']);
   setText('proc-sub',t['proc-sub']);
   set('pc1-text',t['pc1-text']);
