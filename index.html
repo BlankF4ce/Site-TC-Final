@@ -645,12 +645,12 @@
   </section>
 
   <!-- DUBBING SUPPORT -->
-  <section id="dubbing" class="dubbing-section" style="position:relative;overflow:hidden;background:none;padding:6rem 0;">
-    <video autoplay loop muted playsinline style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:0;opacity:0.6;">
+  <section id="dubbing" class="dubbing-section" style="position:relative;overflow:hidden;background:none;padding:6rem 0;z-index:1;">
+    <video autoplay loop muted playsinline style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;z-index:-2;opacity:0.6;">
       <source src="img/Vintage_microphone_with_red_light_202605171257.mp4" type="video/mp4">
     </video>
-    <div style="position:absolute;inset:0;background:linear-gradient(180deg, var(--dark2) 0%, rgba(17,17,22,0.3) 15%, rgba(17,17,22,0.3) 85%, var(--dark2) 100%);z-index:1;"></div>
-    <div class="mx" style="position:relative;z-index:2">
+    <div style="position:absolute;inset:0;background:linear-gradient(180deg, var(--dark2) 0%, rgba(17,17,22,0.3) 15%, rgba(17,17,22,0.3) 85%, var(--dark2) 100%);z-index:-1;pointer-events:none;"></div>
+    <div class="mx">
     <div class="dubbing-text-header" style="text-align: center; max-width: 900px; margin: 0 auto 5rem auto; display: flex; flex-direction: column; align-items: center;">
       <h2 class="s-title" id="dub-title" style="margin-bottom: 0.5rem; justify-content: center; color: var(--red);">Brazilian Portuguese Dubbing Support</h2>
       <p class="dubbing-subtitle" id="dub-subtitle">Make your characters sound natural, consistent, and culturally right for Brazilian players.</p>
