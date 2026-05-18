@@ -1681,6 +1681,19 @@ footer {
   }
 }
 
+.dubbing-cards-area {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+}
+
+@media(max-width: 900px) {
+  .dubbing-cards-area {
+    grid-template-columns: 1fr;
+    gap: 1.8rem;
+  }
+}
+
 @media(max-width: 768px) {
   .dubbing-section {
     padding: 4rem 1.2rem;
