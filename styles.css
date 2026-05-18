@@ -1652,9 +1652,10 @@ footer {
 /* DUBBING SUPPORT */
 .dubbing-section {
   background: var(--dark);
-  padding: 7rem 3rem;
+  padding: 6rem 3rem;
   position: relative;
   overflow: hidden;
+  z-index: 1;
 }
 
 .dubbing-section::before {
